@@ -11,5 +11,5 @@
 
 ##### 📍 UFC-16 인코딩
 
-## 자료형 : char, string, int, long(L)/float(F), double, boolean, var
-## var는 형추론, 한번 자료형 정해지면 변경 x, 지역 변수만 가능
+3. 자료형 : char, string, int, long(L)/float(F), double, boolean, var
+   var는 형추론, 한번 자료형 정해지면 변경 x, 지역 변수만 가능
