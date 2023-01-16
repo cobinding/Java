@@ -2,7 +2,7 @@
 
 # Char & String
 
-1.자바 문자 & 문자열 char와 string  char는 ’ ‘ string은 “ ” 'A' 랑 “A”는 엄연히 다름.
+1. 자바 문자 & 문자열 char와 string  char는 ’ ‘ string은 “ ” 'A' 랑 “A”는 엄연히 다름.
 * ‘A'는 char이고 인코딩이 가능한 아스키코드(1 byte) 
 * "A"는 사실상 A\n인 문자열(string)
 
